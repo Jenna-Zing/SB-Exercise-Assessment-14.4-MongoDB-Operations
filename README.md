@@ -12,6 +12,8 @@ Assessment Instructions: https://lessons.springboard.com/MongoDB-Operations-Proj
 
 ## SPECIAL NOTE: I added `.filter(10)` to my READ #3 and #4 due to the amount of records returned back, which doesn't let you see the results of my other code. Please feel free to delete/comment out the filter if you choose to individually test each! I tested each individually and commented out the rest.
 
+## To Run the code, open a terminal and run `node program.js`
+
 Helpful Docs: -- I used version 7 since that's closest to what's used in the package.json.
 
 - MongoDB CRUD operations (https://www.mongodb.com/docs/v7.0/crud/)
